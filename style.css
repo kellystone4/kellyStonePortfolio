@@ -16,9 +16,23 @@
   /* margin-top: 5px; */
   margin-left: 18px;
 }
+.portfolioImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+.portfolioExplanation {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: #3a3a3a !important;
+  letter-spacing: 2px;
+  line-height: 140%; 
+  text-align: center;
+
+}
 .copyright {
   font-family: 'Cormorant Garamond', serif;  
-  font-size: 18px;
+  font-size: 15px;
   color: white !important;
   letter-spacing: 3px; 
   margin-bottom: 5px;
@@ -309,11 +323,6 @@ p{
     color: white;
     text-shadow: 2px 2px 4px #000000;
 
-}
-.portfolioImg {
-    display: block;
-    margin-left: auto;
-    margin-right: auto
 }
 .portfolioDescription {
   text-align: center;
