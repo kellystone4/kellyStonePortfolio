@@ -4,16 +4,12 @@
   margin: 0;
   padding: 0;
 }
-/* @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap'); */
-
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;500&display=swap');
-
 .navbarTitle{
   font-family: 'Cormorant Garamond', serif;  
   font-size: 16px;
   color: white !important;
   letter-spacing: 6px; 
-  /* margin-top: 5px; */
   margin-left: 18px;
 }
 .portfolioImg {
@@ -46,88 +42,20 @@
   letter-spacing: 1px; 
   margin-right: 2%;
 }
-
 .card-image {
   margin: 3%;
   margin-right: -1%
 }
-
 .tabs {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
   color: #666565  !important;
 }
-
-.viewSubheader {
-  text-align: center;
-  font-size: 30px;
-  font-family: 'Roboto', sans-serif;
-
-}
-.savedItems {
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-}
-.restaurantName {
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-  font-size: 18px;
-  letter-spacing: 1px; 
-  color:white;
-  /* text-shadow: 2px 2px 4px #000000; */
-}
-.sightInfo {
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-  font-size: 18px;
-  letter-spacing: 1px; 
-  color:white;
-  /* text-shadow: 2px 2px 4px #000000; */
-}
-
-#sightId{
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-  font-size: 18px;
-  letter-spacing: 1px; 
-  color:white;
-  /* text-shadow: 2px 2px 4px #000000; */
-}
-.cityDescription {
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-  font-size: 20px;
-  margin-right: 15%;
-  margin-left: 15%;
-}
-.restaurantWebsite {
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-  font-size: 18px;
-}
-.restaurantWebsite {
-  margin-top: 2%;
-}
-.restaurantType{
-  margin-bottom: 3%;
-}
 .headerLogo {
     width: 60px;
     margin-top: 5px;
     margin-left: 10px;
-}
-.sightName {
-  font-family: 'Roboto', sans-serif;
-  letter-spacing: 1px; 
-  color:white;
-  /* text-shadow: 2px 2px 4px #000000; */
-}
-
-.saveSightsBtn{
-  margin-left: 25%;
-  margin: 5%;
-  background-color: #afafaf  !important;
 }
 #title {
   text-transform: uppercase;
@@ -135,17 +63,6 @@
   font-family: 'Cormorant Garamond', serif;  
   letter-spacing: 12px; 
   color:white;
-}
-.saveRestaurantBtn{
-  margin-left: 30%;
-  margin: 5%;
-  background-color: #afafaf  !important;
-}
-.savedCityInfo {
-  font-family: 'Roboto', sans-serif;
-  font-size: 20px;
-  letter-spacing: 1px; 
-  color: #5a5a5a !important;
 }
 .profileImage {
   float: left;
@@ -158,7 +75,6 @@
   text-align: center;
   font-size: 25px;
   letter-spacing: 2px; 
-  /* text-shadow: 2px 2px 4px #000000; */
   margin-right: 10%;
   margin-left: 10%;
 }
@@ -175,11 +91,6 @@
   line-height: 300%;
   text-shadow: 2px 2px 4px #000000;
 }
-.deleteBtn{
-  margin-left: 30%;
-  margin: 5%;
-  background-color: #afafaf  !important;
-}
 .savedDropBox{
   margin-left: 25%;
   margin-bottom: 8%;
@@ -192,49 +103,22 @@
 .nav-wrapper {
     background-color: rgba(0,0,0,0); 
 }
-.btnCityName {
-  font-family: 'Roboto', sans-serif;
-  letter-spacing: 3px; 
-  font-size: 25px;
-  color:black;
-}
 .full-width {
   height: 100%;
   min-height: 700px !important;
 }
-.savedTripsList {
-  text-align: center;
-}
-
-.saveTripBtn {
-  margin-left: 10%;
-  margin-top: 1%;
-  background-color: #afafaf  !important;
-  margin-right: 3%;
-  
-}
 nav {
   background-color: rgba(0,0,0,0)!important;
 }
-  .sRS {
+.sRS {
     text-align: center;
 }
-/* .bg-cover {
-    background-position-y: inherit;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-} */
 .fas {
     color: white;
 }
 .fab{
     color:white;
-    /* margin-top: 68% */
 }
-/* .footericons{
-    margin-top: 50%;
-} */
 p{
     color: white;
 }
@@ -244,7 +128,6 @@ p{
     font-family: 'Roboto', sans-serif;
     letter-spacing: 1px; 
 }
-
 .subheading {
     text-align: center;
     font-size: 25px;
@@ -252,59 +135,10 @@ p{
     font-family: 'Roboto', sans-serif;
     letter-spacing: 1px; 
 }
-.addDescriptionHere {
-  margin-top: -2%;
-}
-.logo{
-    width: 75px;
-    margin: 2px;
-    height: auto;
-}
-.selectFrom{
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-  font-size: 25px;
-  letter-spacing: 1px; 
-  padding: 1%;
-  margin-top: -4%;
-  color:white;
-
-}
-#icon_prefix2 {
-  font-family: 'Roboto', sans-serif;
-  letter-spacing: 1px; 
-  color:white;
-  text-shadow: 2px 2px 4px #000000;
-
-}
-
-.restaurantType {
-  font-family: 'Roboto', sans-serif;
-  letter-spacing: 1px;
-  color: white;
-  text-shadow: 2px 2px 4px #000000;
-  font-size: 20px;
-}
 .text {
     font-family: 'Roboto', sans-serif;
     letter-spacing: 1px;
  
-}
-#featuredHeading {
-  font-family: 'Roboto', sans-serif;
-  letter-spacing: 6px;
-  color: white;
-  text-shadow: 2px 2px 4px #000000;
-  font-size: 20px;
-}
-.inputUsernameHere {
-    text-align: center;
-    font-family: 'Roboto', sans-serif;
-    font-size: 25px;
-    letter-spacing: 1px; 
-    color: white;
-    text-shadow: 2px 2px 4px #000000;
-
 }
 .portfolioDescription {
   text-align: center;
@@ -329,26 +163,12 @@ body {
   background-size: cover;
   font-family: 'Roboto', sans-serif;
     /* background-image: linear-gradient(to bottom, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0.4) 100%), url("https://wallpaperaccess.com/full/1773222.jpg"); */
-
-}
-h2 {
-  font-size: 45px;
-  font-weight: 300;
-  margin: 10px;
-  font-family: 'Roboto', sans-serif;
-  letter-spacing: 1px; 
-}
-h2 span {
-  font-size: 30px;
-  font-family: 'Roboto', sans-serif;
-  letter-spacing: 1px; 
 }
 p {
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
   letter-spacing: 1px; 
 }
-
 .contactinfo {
 
   text-align: center;
@@ -357,7 +177,6 @@ p {
   letter-spacing: 1px; 
   color: white;
   text-shadow: 2px 2px 4px #000000;
-  /* margin-top: 90%; */
 }
 .contactC{
   text-align: center;
@@ -368,10 +187,6 @@ p {
   text-shadow: 2px 2px 4px #000000;
   padding: 1%;
 }
-/* .contact{
-    font-family: 'Cormorant Garamond', serif;
-    letter-spacing: 1px; 
-} */
 .c{
   padding-top: 1%;
 }
@@ -396,7 +211,6 @@ p {
   font-size: 18px;
   text-align: center;
   font-family: 'Cormorant Garamond', serif;
-  /* margin-left: 20%; */
   text-shadow: 2px 2px 4px #000000;
 }
 .ccc {
