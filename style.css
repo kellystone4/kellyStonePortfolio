@@ -15,9 +15,13 @@
 .portfolioImg {
   display: block;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto; 
   min-width: 100px;
   max-height: 100%; 
+  /* height: auto;
+  min-width: 50%;
+  padding: 3%;
+  margin-top: -2%; */
 }
 .portfolioDescription {
   text-align: center;
@@ -73,13 +77,15 @@
   letter-spacing: 12px; 
   color:white;
 }
-.profileImage {
+.profileImage{ 
   float: left;
   padding: 3%;
   margin-top: -2%;
-  max-width: 100%;
+  width:100%;
+  height:auto; 
+  max-width: 20%;
   height: auto;
-  min-width: 50%;
+  min-width: 50%; 
 }
 .missionStatement{
   font-family: 'Cormorant Garamond', serif;
