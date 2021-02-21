@@ -12,7 +12,17 @@
   letter-spacing: 6px; 
   margin-left: 18px;
 }
+.portfolioCard {
+  margin-right: 10%;
+  margin-left: 10%;
+  /* opacity: 40%; */
+  /* background-color: rgb(80, 78, 78) !important; */
+}
+.card-content {
+  opacity: 100%
+}
 .portfolioImg {
+  /* opacity: 1000%; */
   display: block;
   margin-left: auto;
   margin-right: auto; 
